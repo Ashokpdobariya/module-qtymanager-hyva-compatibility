@@ -11,7 +11,7 @@
     <type name="Hyva\CompatModuleFallback\Model\CompatModuleRegistry">
         <arguments>
             <argument name="compatModules" xsi:type="array">
-                <item name="zealousecommerce--qtymanager-hyva-compatibility" xsi:type="array">
+                <item name="zealousecommerce-qtymanager-hyva-compatibility" xsi:type="array">
                     <item name="original_module" xsi:type="string">Zealousecommerce_Qtymanager</item>
                     <item name="compat_module" xsi:type="string">Zealousecommerce_QtymanagerHyvaCompatibility</item>
                 </item>
