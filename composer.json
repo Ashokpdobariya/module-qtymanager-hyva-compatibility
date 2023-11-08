@@ -2,7 +2,7 @@
     "name": "zealousecommerce/module-qtymanager-hyva-compatibility",
     "description": "Qtymanager Hyva Compatibility by zelous",
     "require": {
-        "zealousecommerce/magento2-qtymanager": ">=1.1.1",
+        "zealousecommerce/magento2-qtymanager": "dev-main",
         "magento/framework": ">=102.0.0",
         "hyva-themes/magento2-reset-theme": "*",
         "hyva-themes/magento2-theme-module": ">=1.1.9",
