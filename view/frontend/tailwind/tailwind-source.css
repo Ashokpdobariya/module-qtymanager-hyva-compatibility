@@ -1,0 +1,19 @@
+.checkout-onepage-success .actions-toolbar {
+    @apply mt-6 pt-4 flex justify-between flex-row-reverse items-center border-0;
+}
+
+.checkout-onepage-success .actions-toolbar .primary a {
+    @apply btn btn-primary;
+}
+
+.checkout-onepage-success .order-details-items .order-title {
+    @apply text-2xl border-b pb-2 mb-4;
+}
+
+.checkout-onepage-success .product-item-info  {
+    max-width: 240px;
+}
+
+.checkout-onepage-success .product-items {
+    display: flex;
+}
