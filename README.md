@@ -1,0 +1,1 @@
+# module-qtymanager-hyva-compatibility
